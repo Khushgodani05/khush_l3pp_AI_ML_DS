@@ -1,0 +1,13 @@
+when we create any object in python library it will utilise maximum byrte storage(data storage) by default.
+eg. float 64
+int 64
+complex 128
+String= U10 10 is length of maximum string
+
+installing package:
+pip install <package name>
+pip install numpy
+
+checking version:
+numpy.__version__
+

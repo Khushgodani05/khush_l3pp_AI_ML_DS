@@ -1,0 +1,20 @@
+regression : prediciting continous numerical value
+error: difference between actual and predicted value
+features / predictors: the values or variable used to predict something
+columns are feature columns
+target value: the va;ue which we predict and column is called the target column
+Aim in supervised learning: reduce the distance between actual value(ground truth value) and the predicted value
+UnsUpervised learning:
+regression is not there
+clusterring: grouping data based on similarity
+Reincforcement learning:
+feedback mechanisum is totally dependent on sorrounding and the acty=tion it needs to take 
+semi-supervised learning: partial label and maximum unlabelled data
+Deep learning:
+huge compution powers
+effecient for more complex data like image,video, audio
+sequential learning:
+Time series dataset 
+where we include sequence in a learning pattern
+
+Gemeni 2.o flash

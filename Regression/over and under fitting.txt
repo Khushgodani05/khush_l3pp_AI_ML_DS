@@ -1,0 +1,7 @@
+Reasons for underfitting:
+Quality of data
+Quantity of data
+Choosing right algorithm
+
+Identifying overfitting:
+train accuracy is high and validation/testing accuracy is low means the gap is high 

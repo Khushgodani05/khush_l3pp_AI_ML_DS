@@ -1,0 +1,5 @@
+group by is used to split a column based on its unique values on which aggregation can be performed like min,max and it also works with numerical data
+
+cross tab is similar to groupby but only gives the slected features  
+
+ 

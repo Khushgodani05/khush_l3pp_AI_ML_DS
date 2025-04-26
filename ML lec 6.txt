@@ -1,0 +1,6 @@
+final destination to reach when we apply gradient descent is to reach global minima
+
+loss:
+MAE
+MSE
+RMSE

@@ -1,0 +1,6 @@
+when we apply any transformation on column using a class it has three function:
+fit -calculates the required task ny understanding the distribution of the data
+transform - actually applies the calculation on the data calculated in the fit method
+fit_transform - applies both the functions together
+
+Multi collinearity: when two features are highly correlated

@@ -1,0 +1,1 @@
+check the defination of every function to check the input and return type
