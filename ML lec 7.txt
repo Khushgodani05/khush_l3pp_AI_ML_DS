@@ -1,0 +1,4 @@
+Precision: out of all predicted positive results how many are actually positive
+recall : out of total positive classes how many are actual positive
+for sensetive matters recall should be high (also known as sensitivity) where we cannot afford any misclassisfication
+for precision it does not focus on misclassification similar to accuracy score
