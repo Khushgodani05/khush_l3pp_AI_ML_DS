@@ -1,0 +1,5 @@
+Random forest and decision tree is used as:
+1.same algorithm can be used for both regression and classification
+2.It can be trained on raw data
+3.It also provides feature selection
+4>random forest is an ensemble technique where we use multiple models to get the final output
