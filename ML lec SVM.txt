@@ -1,0 +1,4 @@
+cnverting data from low to high dimensionality to oget linear data from non linear data
+new set of feature and coefficient atach to a new set of feature helps in conerting data to linear data
+
+study: Grid search CV
