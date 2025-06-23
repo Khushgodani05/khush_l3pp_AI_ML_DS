@@ -1,0 +1,11 @@
+If laptop has GPU: GPU performs parallel computation
+cuda toolkit download (middleware between GPU and pytorch code)
+then download pytorch
+ANN:classification and regression mostly classification for textual data
+CNN:for image and video data
+RNN: for sequential data it could be either textual , image ,video or any other form 
+problem with RNN: It could not data for long time eg(50 frames it forgets initial frames)
+Activation function: It is used to break the chaining linearity equation and introduce non-linearity in it
+output:sigmoid,softmax
+To solve problem of RNN two new architectures i.e LSTM and GPU they could store data for longer time 
+Then one architecture better than LSTM and GPU came i.e Transformer
