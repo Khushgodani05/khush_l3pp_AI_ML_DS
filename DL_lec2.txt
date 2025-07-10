@@ -1,0 +1,7 @@
+when we take data as batch from disk if the size is greater than GPU ram size we get an error CUDA out of memory error:
+data is more
+model is big
+nn is responsible for optim which all gradient descent algorithm written
+Transfer learning:
+Either by changing the entire parameters 
+By freezing initial layers and changing last 3-4 layers for our use case
